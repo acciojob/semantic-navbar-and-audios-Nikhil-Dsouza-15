@@ -16,9 +16,9 @@ app.get('/', (req, res) => {
     <body>
         <nav>
             <ul>
-                <li><a href="http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3">Link 1</a></li>
-                <li><a href="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg">Link 2</a></li>
-                <li><a href=" http://codeskulptor-demos.commondatastorage.googleapis.com/pang/paza-moduless.mp3">Link 3</a></li>
+                <li><a href="http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3">http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3</a></li>
+                <li><a href="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg">http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg</a></li>
+                <li><a href="http://codeskulptor-demos.commondatastorage.googleapis.com/pang/paza-moduless.mp3">http://codeskulptor-demos.commondatastorage.googleapis.com/pang/paza-moduless.mp3</a></li>
             </ul>
         </nav>
     
